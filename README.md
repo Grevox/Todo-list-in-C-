@@ -18,7 +18,3 @@ The program provides a menu with 4 options:
 2. Read a file - Displays the contents of an existing todo list file
 3. Append to file - Adds new items to an existing todo list file
 4. Exit - Closes the program
-
-## Building and Running
-
-Compile with:
